@@ -25,7 +25,6 @@ class _MyHomePage extends StatefulWidget {
 }
 
 class _MyHomePageState extends State<_MyHomePage> {
-  // late Color _randomBackgroundColor;
   Color? _randomBackgroundColor;
 
   @override
